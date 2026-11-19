@@ -1,6 +1,6 @@
 # 🤖 Agent Foundry: Engenharia e Construção de Agentes com Google ADK
 
-Material da palestra apresentada no **DevFest João Pessoa 2026** (20 e 21/11/2026).
+Material da palestra apresentada no **DevFest João Pessoa 2026** (20/11/2026).
 
 Este repositório foi montado para você conseguir **reproduzir os exemplos em casa**, mesmo que nunca tenha criado um agente de IA antes.
 
